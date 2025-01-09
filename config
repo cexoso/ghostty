@@ -10,6 +10,8 @@ font-size = 22.0
 
 font-family = "FiraMono Nerd Font Mono"
 
+confirm-close-surface = false
+
 
 palette = 0=#403E41
 palette = 1=#FF6188
